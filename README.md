@@ -1,2 +1,3 @@
 # docker-compose-sonar
-projet docker-compose pour déployer sonar
+
+Docker Compose project to deploy SonarQube with a PostgreSQL database.
